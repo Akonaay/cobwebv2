@@ -15151,6 +15151,8 @@ a.view:hover {
   background: url(../images/slides-01.jpg) no-repeat center;
   background-size: cover;
   min-height: 640px;
+  overflow: hidden;
+  object-fit: cover;
   position: relative;
   z-index: 0;
   display: grid;
@@ -18012,7 +18014,8 @@ form.signin-form {
 /*--//error-404--*/
 /*--/footer--*/
 .w3l-footer7 {
-  background: var(--footer-bg);
+  background: #F5F35E;
+  
 }
 
 .w3l-footer7 .grid-col-2 {
@@ -18059,7 +18062,7 @@ form.signin-form {
   line-height: 42px;
   text-transform: capitalize;
   max-width: 500px;
-  margin: 0 auto 40px;
+  
   display: inline-block;
 }
 
@@ -18207,9 +18210,7 @@ form.signin-form {
   margin-right: 0;
 }
 
-.w3l-footer7 .copy-right-hny {
-  margin-top: 50px;
-}
+
 
 .w3l-footer7 p.copy-footer7 a:hover {
   color: #fff;
