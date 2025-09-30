@@ -15265,7 +15265,7 @@ a.view:hover {
 } */
 
 .w3l-main-slider .banner-view {
-  background: url(../images/slides-01.jpg) no-repeat center;
+  background: url(../images/slides-29-01.jpg) no-repeat center;
   background-size: cover;
   min-height: 640px;
   overflow: hidden;
@@ -15277,13 +15277,13 @@ a.view:hover {
 }
 
 .w3l-main-slider .banner-top1 {
-  background: url(../images/slides-02.jpg) no-repeat center;
+  background: url(../images/slides-29-03.jpg) no-repeat center;
   background-size: cover;
   min-height:640px;
 }
 
 .w3l-main-slider .banner-top2 {
-  background: url(../images/slides-03.jpg) no-repeat center;
+  background: url(../images/slides-29-02.jpg) no-repeat center;
   background-size: cover;
   min-height:640px;
   /* min-height:740px; */
